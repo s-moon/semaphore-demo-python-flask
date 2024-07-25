@@ -1,4 +1,4 @@
-# A Semaphore demo CI/CD pipeline using Docker based Python / Flask / MongoDB application.
+# A Semaphore demo CI/CD pipeline using Docker based Python / Flask / MongoDB application
 
 [![Build Status](https://semaphore-demos.semaphoreci.com/badges/semaphore-demo-python-flask/branches/master.svg)](https://semaphore-demos.semaphoreci.com/projects/semaphore-demo-python-flask)
 
